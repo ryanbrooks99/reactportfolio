@@ -6,7 +6,7 @@ import Col from 'react-bootstrap/Col'
 function Container() {
     return (
       <div className="jumbotron">
-        <h1>Ryan Brooks Portfolio</h1>
+        <h1>Ryan Brooks' Portfolio</h1>
         <Image src="../assets/images/ryanheadshot.png" rounded />
         <p>
           Welcome to my portfolio page. My name is Ryan Brooks and I am originally from Charlotte, NC. I am married to my beautiful wife Amy, and we have two amazing children, Lucas and Ava.
