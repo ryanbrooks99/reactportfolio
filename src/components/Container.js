@@ -1,5 +1,6 @@
 import React from "react";
 import Image from 'react-bootstrap/Image'
+import PDF from '../assets/images/Ryan_L_Brooks_Resume.pdf'
 
 
 
@@ -17,7 +18,7 @@ function Container() {
         <p>Cell: 704-562-6121</p>
         <p>Email: <a href = "mailto: ryanbrooks99@gmail.com">ryanbrooks99@gmail.com</a></p>
         <ul>
-        <p>Click <a href="assets/images/Ryan L Brooks Resume.pdf" target="_blank">HERE</a> to view a PDF copy of my resume.</p>
+        <p>Click <a href={PDF} target="_blank">HERE</a> to view a PDF copy of my resume.</p>
         <p>Click <a href="https://github.com/ryanbrooks99" target="_blank">HERE</a> to visit my GitHub.</p>
         <p>Click <a href="https://www.linkedin.com/in/ryanbrooks0101/" target="_blank">HERE</a> to visit my LinkedIn.</p>
         </ul>
