@@ -9,8 +9,7 @@ function Header () {
       <Navbar bg="dark" variant="dark">
         <Navbar.Brand href="#home">Ryan Brooks</Navbar.Brand>
         <Nav className="mr-auto">
-          {/* <Nav.Link href="#Container">Home</Nav.Link>
-        <Nav.Link href="#Portfolio">Portfolio</Nav.Link> */}
+        <Nav.Link href="#Portfolio">Portfolio</Nav.Link>
         </Nav>
       </Navbar>
     

@@ -1,18 +1,17 @@
 import React from "react";
 import Image from 'react-bootstrap/Image'
-import Col from 'react-bootstrap/Col'
+
 
 
 function Container() {
     return (
       <div className="jumbotron">
         <h1>Ryan Brooks' Portfolio</h1>
-        <Image src="../assets/images/ryanheadshot.png" rounded />
+        <Image src={require('../assets/images/ryanheadshot.png')} rounded />
         <p>
-          Welcome to my portfolio page. My name is Ryan Brooks and I am originally from Charlotte, NC. I am married to my beautiful wife Amy, and we have two amazing children, Lucas and Ava.
-          As an up and coming developer in the UNC-Charlotte full stack bootcamp, I am looking forward to acquiring a diverse skillset to better position myself as employer competitive upon entering the work force. 
-          Upon completing the coding bootcamp, my hope is to obtain a career path in the world of software development. As I am always looking for new opportunities, 
-          I am excited to see where this new path in coding will lead.
+          Welcome to my portfolio page. As an up and coming developer in the UNC-Charlotte full stack bootcamp, I am looking forward to acquiring a diverse skillset to
+          better position myself as employer competitive upon entering the work force. Upon completing the coding bootcamp, my hope is to obtain a career path in the world of
+          software development. As I am always looking for new opportunities, I am excited to see where this new path in coding will lead.
         </p>
         <p>Please visit the links below to view my work. I look forward to hearing your input!</p>
         <p>Cell: 704-562-6121</p>
