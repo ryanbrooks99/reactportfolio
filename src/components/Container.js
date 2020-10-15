@@ -1,29 +1,28 @@
 import React from "react";
 import Image from 'react-bootstrap/Image'
-import PDF from '../assets/images/Ryan_L_Brooks_Resume.pdf'
+import Container from 'react-bootstrap/Container'
+import CSS from '../components/Components.css'
 
 
 
-function Container() {
+
+function Main() {
     return (
       <div className="jumbotron">
-        <h1>Ryan Brooks' Portfolio</h1>
-        <Image src={require('../assets/images/ryanheadshot.png')} rounded />
+      
+        <h1>Ryan Brooks</h1><br/>
+        <Image id="image" src={require('../assets/images/ryanheadshot.png')} rounded /><br/><br/>
+        <Container className="md-12">
         <p>
-          Welcome to my portfolio page. As an up and coming developer in the UNC-Charlotte full stack bootcamp, I am looking forward to acquiring a diverse skillset to
-          better position myself as employer competitive upon entering the work force. Upon completing the coding bootcamp, my hope is to obtain a career path in the world of
-          software development. As I am always looking for new opportunities, I am excited to see where this new path in coding will lead.
-        </p>
-        <p>Please visit the links below to view my work. I look forward to hearing your input!</p>
-        <p>Cell: 704-562-6121</p>
-        <p>Email: <a href = "mailto: ryanbrooks99@gmail.com">ryanbrooks99@gmail.com</a></p>
-        <ul>
-        <p>Click <a href={PDF} target="_blank">HERE</a> to view a PDF copy of my resume.</p>
-        <p>Click <a href="https://github.com/ryanbrooks99" target="_blank">HERE</a> to visit my GitHub.</p>
-        <p>Click <a href="https://www.linkedin.com/in/ryanbrooks0101/" target="_blank">HERE</a> to visit my LinkedIn.</p>
-        </ul>
+          Welcome to my portfolio page! As a recent graduate of the UNC-Charlotte Full Stack Coding Bootcamp, I am looking forward to putting my diverse skillset to use and to
+          better positioning myself as employer competitive. During the bootcamp, I became proficient in technologies such as React, JavaScript, jQuery, Node.js, Sequelize, and MongoDB.
+          My hope is to pursue a career in the world of software development, and I am excited to see where this new path in coding will lead.
+          </p>
+        <p>Please visit the links below and above to view my work. I look forward to hearing your input.</p>
+        <p>Cell: 704-562-6121 <br/>Email: <a href = "mailto: ryanbrooks99@gmail.com">ryanbrooks99@gmail.com</a></p>
+        </Container>
       </div>
     );
   }
 
-export default Container;
+export default Main;

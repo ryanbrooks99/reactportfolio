@@ -1,0 +1,22 @@
+h1 {
+    font-family: 'Noto Serif JP', serif;
+    font-size: x-large;
+    font-weight: 900;
+}
+
+p {
+    font-family: 'Noto Serif JP', serif;
+    font-weight: bold;
+}
+
+#image {
+    border-color: mediumblue;
+    border-width: 2px;
+}
+
+.jumbotron {
+    background-image: url(../assets/images/bgimage.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
