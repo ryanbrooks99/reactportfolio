@@ -1,33 +1,31 @@
 {
   "files": {
-    "main.css": "/reactportfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/reactportfolio/static/js/main.f7a39768.chunk.js",
-    "main.js.map": "/reactportfolio/static/js/main.f7a39768.chunk.js.map",
+    "main.css": "/reactportfolio/static/css/main.dc865a21.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.58b14235.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.58b14235.chunk.js.map",
     "runtime-main.js": "/reactportfolio/static/js/runtime-main.b1e7e580.js",
     "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.b1e7e580.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/reactportfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.60349370.chunk.js": "/reactportfolio/static/js/2.60349370.chunk.js",
-    "static/js/2.60349370.chunk.js.map": "/reactportfolio/static/js/2.60349370.chunk.js.map",
+    "static/js/2.a5923513.chunk.js": "/reactportfolio/static/js/2.a5923513.chunk.js",
+    "static/js/2.a5923513.chunk.js.map": "/reactportfolio/static/js/2.a5923513.chunk.js.map",
     "index.html": "/reactportfolio/index.html",
-    "precache-manifest.3258afec7eb77c8ae340b0496f2680de.js": "/reactportfolio/precache-manifest.3258afec7eb77c8ae340b0496f2680de.js",
+    "precache-manifest.3eab8f40d3675ad4c38f1b468d7f194a.js": "/reactportfolio/precache-manifest.3eab8f40d3675ad4c38f1b468d7f194a.js",
     "service-worker.js": "/reactportfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/reactportfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/reactportfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.60349370.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.60349370.chunk.js.LICENSE.txt",
-    "static/media/Ryan_L_Brooks_Resume.pdf": "/reactportfolio/static/media/Ryan_L_Brooks_Resume.e82c2d81.pdf",
+    "static/css/main.dc865a21.chunk.css.map": "/reactportfolio/static/css/main.dc865a21.chunk.css.map",
+    "static/js/2.a5923513.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.a5923513.chunk.js.LICENSE.txt",
+    "static/media/Ryan_L_Brooks_Resume.pdf": "/reactportfolio/static/media/Ryan_L_Brooks_Resume.e9a28547.pdf",
+    "static/media/Components.css": "/reactportfolio/static/media/bgimage.5489e3e0.jpg",
     "static/media/cocktellme.png": "/reactportfolio/static/media/cocktellme.1fd90940.png",
-    "static/media/codequiz.png": "/reactportfolio/static/media/codequiz.bf41f2df.png",
-    "static/media/dayplanner.png": "/reactportfolio/static/media/dayplanner.c014aa6c.png",
-    "static/media/eatdaburger.png": "/reactportfolio/static/media/eatdaburger.0b9bb250.png",
+    "static/media/equippe.png": "/reactportfolio/static/media/equippe.a970c036.png",
     "static/media/musiquery.png": "/reactportfolio/static/media/musiquery.f9ea1bfd.png",
-    "static/media/ryanheadshot.png": "/reactportfolio/static/media/ryanheadshot.85bdb450.png",
-    "static/media/weatherdashboard.png": "/reactportfolio/static/media/weatherdashboard.6024de2e.png"
+    "static/media/ryanheadshot.png": "/reactportfolio/static/media/ryanheadshot.85bdb450.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b1e7e580.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.60349370.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f7a39768.chunk.js"
+    "static/js/2.a5923513.chunk.js",
+    "static/css/main.dc865a21.chunk.css",
+    "static/js/main.58b14235.chunk.js"
   ]
 }
