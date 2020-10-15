@@ -11,7 +11,7 @@ function Main() {
       <div className="jumbotron">
       
         <h1>Ryan Brooks</h1><br/>
-        <Image id="image" src={require('../assets/images/ryanheadshot.png')} rounded /><br/><br/>
+        <Image id="ryan" src={require('../assets/images/ryanheadshot.png')} rounded /><br/><br/>
         <Container className="md-12">
         <p>
           Welcome to my portfolio page! As a recent graduate of the UNC-Charlotte Full Stack Coding Bootcamp, I am looking forward to putting my diverse skillset to use and to

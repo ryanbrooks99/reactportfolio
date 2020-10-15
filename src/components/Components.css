@@ -9,10 +9,9 @@ p {
     font-weight: bold;
 }
 
-#image {
-    border-color: mediumblue;
-    border-width: 2px;
-}
+/* #ryan {
+    border-image: url(../assets/images/beach.jpeg);
+} */
 
 .jumbotron {
     background-image: url(../assets/images/bgimage.jpg);
